@@ -1,2 +1,5 @@
 Q: What's the best part about boolean logic?
 A: Even when you're wrong, you're only a bit off!
+
+Q: Why do seagulls live by the sea?
+A: Cause if they lived by the bay, they'd be bagels.
